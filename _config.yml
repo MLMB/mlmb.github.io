@@ -78,5 +78,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:MLMB/mlmb.github.io.git
+  repository: git@github.com:MLMB/mlmb-mlmb.github.io.git
   branch: master
