@@ -4,7 +4,7 @@
 
 # Site
 title: 烟雨朦胧
-subtitle: Stay Hungry, Stay Foolish
+subtitle: 半盏浮生,一阙流年!
 description:
 author: cxw
 language: zh-CN
@@ -83,7 +83,7 @@ deploy:
 
 feed: # RSS订阅插件
   type: atom
-  path: atom.xml
+  #path: atom.xml
   limit: 0
 
 plugins: hexo-generate-feed
