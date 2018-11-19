@@ -87,3 +87,10 @@ feed: # RSS订阅插件
   limit: 0
 
 plugins: hexo-generate-feed
+
+#表示站内搜索
+search:  
+    path: search.xml
+    field: post
+    format: html
+    limit: 10000
